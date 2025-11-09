@@ -1,10 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-interface ProfilePhotoProps {
-  name: string;
-}
-
-export default function ProfilePhoto({ name }: ProfilePhotoProps) {
+export default function ProfilePhoto() {
   const [isMobile, setIsMobile] = useState(false);
 
   useEffect(() => {

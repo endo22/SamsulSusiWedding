@@ -23,7 +23,7 @@ function ProfileCard({ profile }: ProfileCardProps) {
         <div className="w-12 sm:w-16 h-0.5 bg-gradient-to-r from-transparent via-white to-transparent mx-auto mb-2 sm:mb-3 shadow-sm animate-slide-up-delay-1"></div>
         {/* Foto Profil dengan Frame Monokrom Elegan */}
         <div className="animate-zoom-in-delay-2">
-          <ProfilePhoto name={profile.name} />
+          <ProfilePhoto />
         </div>
         {/* Nama Lengkap */}
         <h4 className="text-base sm:text-lg font-bold text-white mb-1 sm:mb-2 drop-shadow-sm animate-slide-up-delay-3">
