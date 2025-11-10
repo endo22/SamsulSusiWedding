@@ -90,7 +90,7 @@ const WeddingGift: React.FC = () => {
     {
       id: "bri",
       name: "Bank BRI",
-      logo: "/images/bank/BRI.png",
+      logo: "/images/bank/bri.png",
       accountNumber: "7105 0101 4145 536",
       accountName: "SAMSUL RIFANDI MARPAUNG",
       type: "bank",
