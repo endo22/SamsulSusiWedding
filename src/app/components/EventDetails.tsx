@@ -34,7 +34,7 @@ const EventDetails: React.FC = () => {
       time: "10.00 s/d Selesai",
       venue: "GMI FILADELFIA PANCURAN",
       address: "Dusun III Pancuran Pal 15 Pasar Rabu Rt.05/Rw.00,Desa Muara Merang ,Kec. Bayung Lencir ,Kab. Musi Banyuasin,Sumatera Selatan 30974",
-      mapUrl: "https://www.google.com/maps/search/GMI+FILADELFIA+PANCURAN+Dusun+III+Pancuran+Pal+15+Pasar+Rabu+Muara+Merang+Bayung+Lencir+Musi+Banyuasin+Sumatera+Selatan"
+      mapUrl: "https://www.google.com/maps?q=-1.786100,104.086600&entry=gps&g_ep=CAESBzI1LjQzLjQYACDXggMqmQEsOTQyNjc3MjcsOTQyOTIxOTUsOTQyODQ0NzgsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsOTQyNzk2MTksNDcwODQzOTMsOTQyMTMyMDBCAklE&skid=9ac48a5c-4f57-4247-9969-608064b05879&shorturl=1"
     }
   ];
 
