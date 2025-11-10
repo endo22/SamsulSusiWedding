@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     title: "Undangan Pernikahan Samsul & Susi - 22 November 2025",
     description:
       "Dengan penuh sukacita, kami mengundang Bapak/Ibu/Saudara/i untuk hadir dalam acara pemberkatan pernikahan kami. Sabtu, 22 November 2025 di GMI Filadelfia Pancuran.",
-    images: ["/images/Greetingcard.jpg"],
+    images: ["/images/IMG_8852.JPG"],
   },
 };
 
