@@ -68,7 +68,7 @@ export default function ProfileCards() {
   const brideProfile: ProfileData = {
     title: "Profil Pengantin Wanita",
     name: "Wanita",
-    fullName: "Susi Harianja",
+    fullName: "Susi Maya Harianja",
     parents: "Bapak Halomoan Harianja & Ibu Ruslina Br Tampubolon",
     quote:
       "Cinta sejati adalah kebahagiaan yang dibagi berdua dalam setiap langkah kehidupan",

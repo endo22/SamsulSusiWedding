@@ -18,7 +18,7 @@ export default function MainContent() {
       {/* Content overlay */}
       <div className="relative z-10 text-center animate-fade-in px-3 sm:px-4 lg:px-0">
         <h1 className="text-3xl sm:text-4xl lg:text-6xl font-bold text-gray-800 mb-2 sm:mb-4 font-serif tracking-wider animate-zoom-in-delay-1 drop-shadow-lg">
-          Samsul Rifandi Marpaung & Susi Harianja
+          Samsul Rifandi Marpaung & Susi Maya Harianja
         </h1>
         <p className="text-base sm:text-lg lg:text-xl text-gray-600 mb-4 sm:mb-6 lg:mb-8 font-light animate-slide-up-delay-2 drop-shadow-md animate-pulse-gentle">Sabtu, 22 November 2025</p>
       </div>
