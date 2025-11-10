@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     siteName: "Undangan Pernikahan Samsul & Susi",
     images: [
       {
-        url: "/images/Greetingcard.jpg",
+        url: "/images/IMG_8852.JPG",
         width: 1200,
         height: 630,
         alt: "Undangan Pernikahan Samsul Rifandi Marpaung & Susi Maya Harianja - 22 November 2025",
